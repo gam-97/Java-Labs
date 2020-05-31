@@ -1,0 +1,6 @@
+red
+15813 45
+blue
+grey pink
+indigo gold
+yellow 04 purple

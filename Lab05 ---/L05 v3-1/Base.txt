@@ -1,0 +1,6 @@
+red
+11235813 12345
+blue
+grey pink
+indigo gold
+yellow 01234 purple
